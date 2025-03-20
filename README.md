@@ -7,7 +7,7 @@ Public sentiment on **social media platforms** can significantly impact brand re
 ✅ **Apply topic modeling** to uncover key discussion themes about brands.  
 ✅ **Visualize sentiment trends** using data visualization techniques.  
 
-This project was completed during my **internship at Prodigy InfoTech**, providing **real-world experience** in sentiment analysis and text mining.  
+This project provides valuable insights into how **brands are perceived online** and helps businesses **optimize their marketing and customer engagement strategies**.  
 
 ---
 
